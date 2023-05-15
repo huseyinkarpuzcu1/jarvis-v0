@@ -1,0 +1,11 @@
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\bin\Debug\Jarvis V1.exe.config
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\bin\Debug\Jarvis V1.exe
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\bin\Debug\Jarvis V1.pdb
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis V1.csproj.AssemblyReference.cache
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis_V1.Form1.resources
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis_V1.Properties.Resources.resources
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis V1.csproj.GenerateResource.cache
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis V1.csproj.CoreCompileInputs.cache
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis V1.exe
+C:\Users\Teknoloji\Desktop\huso\projeler\Jarvis V1\obj\Debug\Jarvis V1.pdb
